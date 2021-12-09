@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amiiitparmar
+- 👋 Hi, I’m Amit Parmar
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Deep learning.
 - 💞️ I’m looking to collaborate on Fraud detections based projects.
